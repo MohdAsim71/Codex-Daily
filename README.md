@@ -42,13 +42,6 @@ If you're here, you're welcome to read, borrow ideas, suggest improvements, or s
 ```
 codex-daily/
 │
-├── 📅 daily-logs/                  # Date-wise learning entries
-│   ├── 2025/
-│   │   ├── 2025-04-10.md
-│   │   └── ...
-│   └── weekly-summaries/           # Weekly reflections & highlights
-│       └── 2025-W15.md
-│
 ├── 📚 topics/                      # Deep dives by subject
 │   ├── android/                    # Jetpack Compose, Architecture, APIs
 │   ├── ai-ml/                      # LLMs, Transformers, Prompt Engineering
@@ -84,7 +77,6 @@ codex-daily/
 
 | Section | What's inside | Best for |
 |---|---|---|
-| [`daily-logs/`](./daily-logs/) | Day-by-day entries with tags | Following the journey chronologically |
 | [`topics/`](./topics/) | Structured deep dives | Learning a specific concept |
 | [`work-notes/`](./work-notes/) | Real-world experience | Practical, battle-tested insights |
 | [`snippets/`](./snippets/) | Copy-paste ready code | Finding reusable solutions fast |
@@ -104,35 +96,6 @@ codex-daily/
 `#git` `#ci-cd` `#debugging` `#performance` `#productivity`
 
 ---
-
-## 📅 Daily Log Format
-
-Every entry follows a consistent structure:
-
-```markdown
-# 📅 April 10, 2025
-
-## What I learned today
-Brief summary of the day's focus.
-
-## Deep dive
-The main concept, explanation, and notes.
-
-## Code snippet
-Relevant code, if any.
-
-## Resources
-Links to articles, docs, videos referenced.
-
-## Tomorrow's plan
-What I'll explore next.
-
-## Tags
-`#android` `#jetpack-compose`
-```
-
----
-
 ## 📈 Stats
 
 | | |
