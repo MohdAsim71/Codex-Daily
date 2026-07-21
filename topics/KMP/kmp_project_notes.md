@@ -2,6 +2,7 @@
 
 Welcome! These structured learning notes analyze the **CMP-Bookpedia-Final** project to teach you production-grade cross-platform development using **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.
 
+https://github.com/philipplackner/CMP-Bookpedia.git
 ---
 
 ## 1. Project Overview
